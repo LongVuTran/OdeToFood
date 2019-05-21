@@ -1,0 +1,14 @@
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.deps.json
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CopyComplete
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.json
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.runtimeconfig.dev.json
+C:\Users\vu.tran\Downloads\aspnet-core-fundamentals\05\demos\demos\before\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojResolveAssemblyReference.cache
